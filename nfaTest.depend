@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623621096 source:c:\users\y\desktop\nfatest\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"utils.h"
+
+1623608260 c:\users\y\desktop\nfatest\new.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1623617783 source:c:\users\y\desktop\nfatest\utils.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stack>
+	<sstream>
+	"utils.h"
+
+1623616469 c:\users\y\desktop\nfatest\utils.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1623615794 source:c:\users\y\desktop\nfatest\generatenfa.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"utils.h"
+
